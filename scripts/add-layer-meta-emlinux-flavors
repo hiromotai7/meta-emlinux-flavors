@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo "BBLAYERS += \"\${TOPDIR}/../repos/meta-emlinux-flavors\"" >> conf/bblayers.conf
