@@ -9,6 +9,7 @@ $ bitbake <image name>
 |image name|detail|
 |---|---|
 |emlinux-image-base| minimum EMLinux image|
+|emlinux-image-gnome| minimum EMLinux image|
 
 # LICENSE
 See [LICENSE](LICENSE).
