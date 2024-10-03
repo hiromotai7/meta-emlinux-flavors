@@ -1,7 +1,7 @@
 # How to use meta-emlinux-flavors
 
 ## Prerequisite
-- Install the packeges that is neede to build EMLinux.
+- Install the packeges that are needed to build EMLinux.
   - https://github.com/miraclelinux/meta-emlinux/tree/bookworm
 - In this article, created the following user and directory.
   - User: emlinux
