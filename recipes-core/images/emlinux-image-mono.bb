@@ -1,5 +1,5 @@
 #
-# Gnome Linux image
+# Mono Linux image
 #   based on EMLinux base image
 #
 # SPDX-License-Identifier: MIT
@@ -7,7 +7,7 @@
 
 require recipes-core/images/emlinux-image-base.bb
 
-DESCRIPTION = "Gnome target root filesystem"
+DESCRIPTION = "Install mono-complete"
 
 LICENSE = "MIT"
 
