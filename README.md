@@ -12,5 +12,8 @@ $ bitbake <image name>
 |emlinux-image-gnome| minimum EMLinux image|
 |emlinux-image-mono| minimum EMLinux image with [Mono](https://gitlab.winehq.org/mono/mono)|
 
+# How to use
+- Refer to [How to use meta-emlinux-flavors](doc/How-to-Use.md).
+
 # LICENSE
 See [LICENSE](LICENSE).
