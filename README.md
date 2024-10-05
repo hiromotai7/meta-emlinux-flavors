@@ -10,6 +10,7 @@ $ bitbake <image name>
 |---|---|
 |emlinux-image-base| minimum EMLinux image|
 |emlinux-image-gnome| minimum EMLinux image|
+|[emlinux-image-podman](doc/emlinux-image-podman.md)| minimum EMLinux image with [Podman](https://podman.io/)|
 
 # LICENSE
 See [LICENSE](LICENSE).
