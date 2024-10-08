@@ -96,7 +96,9 @@
    ```sh
    echo 'MACHINE = "qemu-arm64-k3s"' >> conf/local.conf
    ```
-   - FIXME
+   ```sh
+   echo 'FILESPATH:append =  "${TOPDIR}/../repos/meta-emlinux-flavors/recipes-kernel/linux/files/"' >> conf/local.conf
+   ```
 1. Build EMLinux.
    ```sh
    bitbake emlinux-image-k3s
